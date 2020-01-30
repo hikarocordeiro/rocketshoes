@@ -33,9 +33,10 @@ module.exports = {
     ],
     'import/prefer-default-export': 'off',
     'react/state-in-constructor': 'off',
-    'no-console': ["error", { allow: ["tron"] }],
+    'no-console': ['error', { allow: ['tron'] }],
     'no-param-reassign': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+    'import/extensions': ['off', 'never'],
   },
 };
