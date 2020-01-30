@@ -35,7 +35,7 @@ module.exports = {
     'react/state-in-constructor': 'off',
     'no-console': ["error", { allow: ["tron"] }],
     'no-param-reassign': 'off',
-    'react-hookes/rules-of-hooks': 'error',
+    'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
   },
 };
