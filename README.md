@@ -65,7 +65,7 @@ $ yarn install
 # Run json-server
 $ yarn json-server --watch server.json --port 3333
 
-# Run the app
+# Run the app (in a new terminal)
 $ yarn start
 ```
 
